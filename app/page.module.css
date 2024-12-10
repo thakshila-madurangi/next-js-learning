@@ -1,0 +1,10 @@
+.link {
+    color: white;
+}
+.link:hover{
+    color:red;
+}
+
+#specialLink{
+    color:yellow;
+}
